@@ -9,7 +9,7 @@ The project focuses on identifying patterns and trends in website traffic.
 Analyze website traffic time series data to uncover hourly and weekly patterns that can guide SEO strategy, content timing, and audience targeting.
 
 ## 📁 Dataset
-- Source: [Kaggle - Website Traffic Time Series](https://www.kaggle.com/datasets/andrewmvd/website-traffic-time-series)
+- Source: [Kaggle - Website Traffic Time Series]([https://www.kaggle.com/datasets/andrewmvd/website-traffic-time-series](https://www.kaggle.com/datasets/anthonytherrien/website-traffic))
 - Columns:
   - `Timestamp`: Date and time of website visit count
   - `TrafficCount`: Number of website visits
