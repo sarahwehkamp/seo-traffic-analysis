@@ -48,6 +48,6 @@ Analyze website traffic time series data to uncover hourly and weekly patterns t
 
 ## 📬 Contact
 Created by Sarah M Wehkamp  
-[GitHub Profile](https://www.github.com/sarahwehkamp)
-[LinkedIn Profile](https://www.linkedin.com/in/sarah-wehkamp)
+[GitHub Profile](https://www.github.com/sarahwehkamp) |
+[LinkedIn Profile](https://www.linkedin.com/in/sarah-wehkamp) |
 [Portfolio](https://lnw26.myportfolio.com/)
