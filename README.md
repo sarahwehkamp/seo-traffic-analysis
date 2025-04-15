@@ -36,7 +36,7 @@ Analyze website traffic time series data to uncover hourly and weekly patterns t
 - Ready-to-use CSV for Tableau
 
 ## 📈 Tableau Dashboard
-👉 [Link to your Tableau Public dashboard here](https://public.tableau.com/app/profile/yourusername)
+👉 [Link to your Tableau Public dashboard here](https://public.tableau.com/views/Web_Traffic_For_Tableau/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🚀 How to Use
 1. Open the notebook in Colab
